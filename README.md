@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
-Este proyecto fue realizado con Styled-Components - css - Bootstrap - Javascript y React.
+Este proyecto fue realizado con las siguientes herramientas:
+
+Estilos (responsive):
+- Styled-Components. 
+- css. 
+- Bootstrap. 
+
+Logica y Libreria:
+- Javascript. 
+- React.
 
 El contador tiene vencimiento el dia 27 de abril del 2022, por lo que si se requiere ver con otra fecha debe cambiarse en el archivo CountdownTimer.js linea 17.
 
