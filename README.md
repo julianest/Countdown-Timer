@@ -2,6 +2,8 @@
 
 Este proyecto fue realizado con Styled-Components - css - Bootstrap - Javascript y React.
 
+El contador tiene vencimiento el dia 27 de abril del 2022, por lo que si se requiere ver con otra fecha debe cambiarse en el archivo CountdownTimer.js linea 17.
+
 ## Available Scripts
 
 para correrlo:
@@ -17,4 +19,7 @@ https://github.com/julianest/Countdown-Timer.git
 ## Links de Despliegue:
 https://julianest.github.io/Countdown-Timer/
 
+
+![Vista Desktop](./desktop-preview.jpg "Vista Desktop")
+![Vista Desktop](./mobile-design.jpg "Vista Mobile")
 
