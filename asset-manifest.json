@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Countdown-Timer/static/css/main.712c0c21.css",
+    "main.js": "/Countdown-Timer/static/js/main.a9ae23fd.js",
+    "index.html": "/Countdown-Timer/index.html",
+    "main.712c0c21.css.map": "/Countdown-Timer/static/css/main.712c0c21.css.map",
+    "main.a9ae23fd.js.map": "/Countdown-Timer/static/js/main.a9ae23fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.712c0c21.css",
+    "static/js/main.a9ae23fd.js"
+  ]
+}
