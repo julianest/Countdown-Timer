@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap');
+
+:root{
+  --Grayish-blue: hsl(237, 18%, 59%);
+  --Soft-red: hsl(345, 95%, 68%);
+  --White: hsl(0, 0%, 100%);
+  --Dark-desaturated-blue: hsl(236, 21%, 26%);
+  --Very-dark-blue: hsl(235, 16%, 14%);
+  --Very-dark: hsl(234, 17%, 12%);
+  --RedHat: 'Red Hat Text', sans-serif;
+}
+*{
+  font-family: var(--RedHat);
+}
+body {
+  margin: 0;
+  background-color: var(--Very-dark-blue);
+  background-image: url("https://res.cloudinary.com/docutv7ug/image/upload/v1650484023/Countdown/bg-stars_kacevw.svg");
+}
+
+.App {
+  text-align: center;
+  
+}
+.iconos:hover{
+  background-color: var(--Soft-red);
+}
+
